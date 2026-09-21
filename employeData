@@ -1,0 +1,15 @@
+// This is a sample data file for employee information.
+//  It contains an array of objects,
+//  where each object represents an employee with their name, age, city, and country.
+//this data is imported in basicApi.js file to be served as a response to the client when the API is called.    
+
+const employeData = [
+    {name : "Sohail", age: 22, city: "Islamabad", country: "Pakistan"},
+    {name : "Ali", age: 25, city: "Lahore", country: "Pakistan"},
+    {name : "Ahmed", age: 30, city: "Karachi", country: "Pakistan"},
+    {name : "Ayesha", age: 28, city: "Peshawar", country: "Pakistan"},
+    {name : "Fatima", age: 35, city: "Quetta", country: "Pakistan"}
+   
+];
+
+module.exports = employeData;

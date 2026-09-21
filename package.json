@@ -1,0 +1,29 @@
+{
+  "name": "backendowel",
+  "version": "1.0.0",
+  "description": "Learning the important concepts of Node js.",
+  "main": "CoreModules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sohailnaseemkhan20/backendOwel.git"
+  },
+  "keywords": [
+    "Learning",
+    "Node",
+    "js"
+  ],
+  "author": "Sohail khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sohailnaseemkhan20/backendOwel/issues"
+  },
+  "homepage": "https://github.com/Sohailnaseemkhan20/backendOwel#readme",
+  "dependencies": {
+    "axios": "^1.20.0",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.14"
+  }
+}
